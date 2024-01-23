@@ -1,7 +1,7 @@
 # studying-of-machine-learning 
 
 In this repo i tryed to learn some machine learning methods.
-I had 2 Tasks:
+ I had 2 Tasks:
 
  [Task 1](./First%20task/) - Supervised learning
    1. [Decision tree](./First%20task/decision%20tree.py)
