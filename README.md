@@ -1,8 +1,6 @@
 # studying-of-machine-learning 
 
-
 In this repo i tryed to learn some machine learning methods.
-
 I had 2 Tasks:
 
  [Task 1](./First%20task/) - Supervised learning
